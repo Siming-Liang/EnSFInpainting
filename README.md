@@ -1,6 +1,7 @@
 # EnSF_Inpainting
 Code repository for the paper:
-ENSEMBLE SCORE FILTER WITH IMAGE INPAINTING FOR TRACKING SURFACE QUASI-GEOSTROPHIC DYNAMICS WITH PARTIAL OBSERVATION
+Ensemble score filter with image inpainting for data assimilation in tracking surface quasi-geostrophic dynamics with partial observations
+https://arxiv.org/abs/2501.12419
 
 ## How to use
 first run `sqg_nature_run.py` to generate nature run for 3hourly and 12 hourly data. This code and LETKF codes are originally from https://github.com/jswhit/sqgturb
